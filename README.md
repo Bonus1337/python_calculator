@@ -1,4 +1,4 @@
-# Calkulator
+# Calculator
 
 This is a simple calculator application built with Python. It supports the following operations:
 
