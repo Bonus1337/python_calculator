@@ -1,12 +1,16 @@
 
 def add_number(a, b):
-	return a + b
+    print(f"Dodaję {a} i {b}")
+    return a + b
 def sub_number(a, b):
-	return a - b
+    print(f"Odejmuję {a} i {b}")
+    return a - b
 def mul_number(a, b):
-	return a * b
+    print(f"Mnożę {a} i {b}")
+    return a * b
 def div_number(a, b):
-	return a / b
+    print(f"Dzielę {a} i {b}")
+    return a / b
 
 if __name__ == "__main__":
     print("Kalkulator")
